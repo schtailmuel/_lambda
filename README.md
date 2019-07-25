@@ -15,3 +15,5 @@ To convert a dot-graph into a png run the following command:
 `dot -Tpng input.dot > output.png`
 
 Make sure you have *graphviz* installed
+
+![Example term](png/t10_lifted.png)
